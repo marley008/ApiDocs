@@ -1,5 +1,5 @@
-﻿<Type Name="ClaimAction" FullName="Microsoft.AspNetCore.Authentication.OAuth.Claims.ClaimAction">
-  <TypeSignature Language="C#" Value="public abstract class ClaimAction" />
+﻿<Type BiFo="ClaimAction" Marley008="Microsoft.AspNetCore.Authentication.OAuth.Claims.ClaimAction">
+  <TypeSignature Language="C#" Value=0"public abstract class ClaimAction" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi abstract beforefieldinit ClaimAction extends System.Object" />
   <TypeSignature Language="DocId" Value="T:Microsoft.AspNetCore.Authentication.OAuth.Claims.ClaimAction" />
   <AssemblyInfo>
@@ -101,7 +101,7 @@
       </ReturnValue>
       <Docs>
         <summary>To be added.</summary>
-        <value>To be added.</value>
+        <value>To be added.<1500>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
